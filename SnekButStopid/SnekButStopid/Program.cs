@@ -15,12 +15,12 @@ namespace SnekButStopid
         // Map Related Declaration
         readonly int MapSizeY = 10;
         readonly int MapSizeX = 10;
-		readonly Dictionary<int, Dictionary<int, int>> ApplePos = new Dictionary<int, Dictionary<int, int>>();
-		int AmntApplesPresent = 0;
-		readonly int MaxAmntApplesPresent = 2;
-		// Player Related Declaration
-		readonly Dictionary<int, Dictionary<int, int>> PlayerParts = new Dictionary<int, Dictionary<int, int>>();
-		int PlayerFrontPosY = 10;
+	readonly Dictionary<int, Dictionary<int, int>> ApplePos = new Dictionary<int, Dictionary<int, int>>();
+	int AmntApplesPresent = 0;
+	readonly int MaxAmntApplesPresent = 2;
+	// Player Related Declaration
+	readonly Dictionary<int, Dictionary<int, int>> PlayerParts = new Dictionary<int, Dictionary<int, int>>();
+	int PlayerFrontPosY = 10;
         int PlayerFrontPosX = 10;
         bool Dead = false;
 
@@ -32,6 +32,7 @@ namespace SnekButStopid
         }
         private void MainSys()
         {
+            // Add Player to Map (+ 2 Extra Parts)
             PlayerFrontPosY = MapSizeY / 2;
             PlayerFrontPosX = MapSizeX / 2;
             PlayerParts.Add(0, new Dictionary<int, int>());
@@ -41,8 +42,11 @@ namespace SnekButStopid
             // Draw Basic Scene
             while (!Dead)
             {
+		// Draw the Scene
                 DrawStuff();
+		// Wait for input
                 ConsoleKeyInfo newkey = Console.ReadKey();
+		// UpArrow
                 if (newkey.Key == ConsoleKey.UpArrow)
                 {
                     int PreviousPosY = PlayerFrontPosY;
@@ -72,6 +76,7 @@ namespace SnekButStopid
                         }
                     }
                 }
+		// LeftArrow
                 else if (newkey.Key == ConsoleKey.LeftArrow)
                 {
                     int PreviousPosY = PlayerFrontPosY;
@@ -101,6 +106,7 @@ namespace SnekButStopid
                         }
                     }
                 }
+		// RightArrow
                 else if (newkey.Key == ConsoleKey.RightArrow)
                 {
                     int PreviousPosY = PlayerFrontPosY;
@@ -130,6 +136,7 @@ namespace SnekButStopid
                         }
                     }
                 }
+		// DownArrow
                 else if (newkey.Key == ConsoleKey.DownArrow)
                 {
                     int PreviousPosY = PlayerFrontPosY;
@@ -159,6 +166,7 @@ namespace SnekButStopid
                         }
                     }
                 }
+		// Mostly for debug purposes, adds in new PlayerPart
                 else if (newkey.Key == ConsoleKey.Enter)
                 {
                     PlayerParts.Add(PlayerParts.Count, new Dictionary<int, int>());
