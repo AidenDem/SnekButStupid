@@ -1,6 +1,6 @@
 ﻿/* 
  * Dumb attempt at remaking Snake in a console app
- * Made by: AidenFrmGAG (Roblox: kpmanaiden, Discord ID: 718761934920351794)
+ * Made by: AidenFrmGAG (Discord ID: 718761934920351794)
  * Was challenged to do so by friends, but with a few conditions:
  * - No 2D arrays
  * - No external dependencies
