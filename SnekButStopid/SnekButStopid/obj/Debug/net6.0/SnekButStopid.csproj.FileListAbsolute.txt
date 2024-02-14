@@ -1,0 +1,28 @@
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.exe
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.deps.json
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.runtimeconfig.json
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.dll
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.pdb
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.AssemblyInfoInputs.cache
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.AssemblyInfo.cs
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.csproj.CoreCompileInputs.cache
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.dll
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\refint\SnekButStopid.dll
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.pdb
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.genruntimeconfig.cache
+C:\Users\demeulenaereaiden\OneDrive - Scholengroep Sint-Rembert vzw\Documenten\Schoolwerk\5de jaar\Informatica\Programmeren\H5\SnekButStopid\SnekButStopid\obj\Debug\net6.0\ref\SnekButStopid.dll
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.exe
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.deps.json
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.runtimeconfig.json
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.dll
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\bin\Debug\net6.0\SnekButStopid.pdb
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.AssemblyInfoInputs.cache
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.AssemblyInfo.cs
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.dll
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\refint\SnekButStopid.dll
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.pdb
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\SnekButStopid.genruntimeconfig.cache
+C:\Users\Aiden\Downloads\SnekButStopid\SnekButStopid\obj\Debug\net6.0\ref\SnekButStopid.dll
